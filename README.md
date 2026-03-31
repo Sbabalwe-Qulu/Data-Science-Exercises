@@ -1,2 +1,3 @@
 # Data-Science-Exercises
-My data science course exercises and assignments
+
+Exercises and Exercise questions focusing on SQL fundamentals. 
